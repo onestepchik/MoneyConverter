@@ -1,4 +1,4 @@
-TOKEN = "6250027706:AAFaDyYJLHMwgoKfGbi3H51EJPnp3_SrO7A"
+TOKEN = "bot_Key"
 
 keys = {
     'доллар': 'USD',
